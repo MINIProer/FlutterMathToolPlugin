@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - math_tool (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - math_tool (from `.symlinks/plugins/math_tool/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  math_tool:
+    :path: ".symlinks/plugins/math_tool/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  math_tool: a45c2d099dc6fdb491c20f98636f8874876636cd
+
+PODFILE CHECKSUM: 3dbe063e9c90a5d7c9e4e76e70a821b9e2c1d271
+
+COCOAPODS: 1.8.4
